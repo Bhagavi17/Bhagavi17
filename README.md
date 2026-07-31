@@ -22,13 +22,6 @@ Currently Learning
 • Docker
 • Data Structures and Algorithms
 
-Projects
-
-• AI Placement & Resume Analyzer
-• Face Detection Attendance System
-• Portfolio Website
-• Student Management System
-
 Career Objective
 
 I am looking for Software Development Internship and Entry-Level Software Engineer opportunities where I can apply my technical knowledge, contribute to real-world projects, and continue learning modern software development practices.
