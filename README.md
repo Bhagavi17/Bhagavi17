@@ -16,7 +16,10 @@ Technical Skills
 • GitHub
 
 Currently Learning
-
+• Java
+• SQL
+• Spring Boot
+• React
 • Spring Security
 • REST APIs
 • Docker
