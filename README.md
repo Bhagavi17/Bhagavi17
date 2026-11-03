@@ -1,118 +1,164 @@
+
 <div align="center">
 
-<!-- Replace the name or tagline below if you prefer a different headline. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:4338ca&height=190&section=header&text=Bhagavi%20Bisen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Java%20%26%20Full%20Stack%20Development&descAlignY=60&descSize=15" width="100%" alt="Bhagavi Bisen profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:4338ca&height=200&section=header&text=Bhagavi%20Bisen&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=17" width="100%"/>
 
-<a href="https://github.com/Bhagavi17">
-  <img src="https://komarev.com/ghpvc/?username=Bhagavi17&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-&nbsp;
+<h3>Building Applications. Solving Problems. Learning Every Day.</h3>
+
+<p>
+  <a href="https://github.com/Bhagavi17">
+    <img src="https://komarev.com/ghpvc/?username=Bhagavi17&style=flat-square&color=0891b2" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=flat-square"/>
+</p>
+
 <a href="https://github.com/Bhagavi17?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  <img src="https://img.shields.io/badge/Explore%20Projects-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-## 👩‍💻 About Me
+---
 
-- 🎓 Computer Engineering student at **PK Technical Campus**, affiliated with **Savitribai Phule Pune University**.
-- ☕ Interested in **Java Development, Spring Boot and Backend Engineering**.
-- 🌐 Building my skills in **Full Stack Web Development**.
-- 🤖 Exploring practical applications of **Artificial Intelligence and Machine Learning**.
-- 🔐 Learning secure application development with **Spring Security and JWT**.
-- 📚 Practising **Data Structures and Algorithms** and strengthening problem-solving skills.
-- 🎯 Working towards a Software Engineer role where I can build useful, reliable applications.
+## 👨‍💻 Developer Profile
+
+Computer Engineering student focused on Java development, backend engineering and building practical software applications.
+
+- 💻 Core programming: Java, Python and C++
+- ⚙️ Backend interests: Spring Boot, REST APIs and JDBC
+- 🗄️ Database: MySQL and SQL
+- 🌐 Web development: HTML, CSS and JavaScript
+- 🤖 Exploring Machine Learning and Generative AI
+- 🎯 Career interest: Software Engineer / Java Developer
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+</p>
+
+**Web Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+**Backend & Database**
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+**Python & AI Libraries**
+
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras`
+`Matplotlib` `Streamlit` `Selenium` `BeautifulSoup`
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Technology | Description |
+|---|---|---|
+| AI-Powered Web Scraper | Python, Selenium, LangChain, Streamlit | Automated web data extraction |
+| Movie Recommendation System | Python, Machine Learning, Streamlit | Genre-based movie recommendations |
+| Stock Price Predictor | Python, Random Forest, yfinance | Machine learning-based stock prediction |
+| Titanic EDA | Python, Pandas, Matplotlib | Exploratory data analysis |
+| Logistic Regression | Python, Scikit-learn | Classification and model evaluation |
+| Java Backend Applications | Java, SQL, Spring Boot | Backend development and database integration |
+
+Explore all projects:
+https://github.com/Bhagavi17?tab=repositories
+
+---
+
+## 🎯 Current Focus
+
+- Java programming and Object-Oriented Programming
+- Data Structures and Algorithms
+- Spring Boot and REST API development
+- JDBC, SQL and database management
+- Full Stack Development
+- Problem-solving and coding practice
+
+---
+
+## 💼 Internship Experience
+
+**Java Developer Intern — Alfido Tech**
+- Worked on Java development and programming concepts.
+
+**AI & ML Intern — Elevate Labs**
+- Worked with Python, machine learning and data preprocessing.
+- Explored model training and evaluation.
+- Received Best Performer recognition.
+
+---
+
+## 🏆 Certifications & Achievements
+
+- Master Java Programming — Great Learning
+- Master Data Science & Machine Learning in Python — Great Learning
+- Generative AI — Microsoft learning programme
+- Crash Course on Python — Google / Coursera
+- Databases for Developers — Oracle
+- AWS Solutions Architecture Virtual Experience — Forage
+- Deloitte Cyber Job Simulation — Forage
+- Goldman Sachs Operations Job Simulation — Forage
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhagavi17&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagavi17&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Bhagavi17&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<!-- Add your real contact links before publishing. -->
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 <a href="https://github.com/Bhagavi17">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
-
-## 🧰 Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" alt="Java, Python, C++, JavaScript, HTML and CSS"/>
-</p>
-
-**Backend, Web & Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,mysql,mongodb" alt="Spring, React, Node.js, Express, MySQL and MongoDB"/>
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" alt="Git, GitHub, VS Code, Postman, Linux and Docker"/>
-</p>
-
-**Python / AI & Data Libraries**
-
-`Pandas` · `scikit-learn` · `TensorFlow` · `Keras` · `Matplotlib` · `Streamlit` · `Selenium` · `BeautifulSoup`
-
-## 🚀 Projects
-
-Here are some areas represented in my academic and practice projects. Add the repository links to each project title once the corresponding repositories are public.
-
-| Project | What it demonstrates |
-|---|---|
-| **AI-Powered Web Scraper** | Python, Selenium, BeautifulSoup, LangChain and Streamlit |
-| **Movie Recommendation System** | Genre-based recommendations and a Streamlit interface |
-| **Stock Price Prediction** | Python, yfinance, machine learning and Random Forest |
-| **Titanic Exploratory Data Analysis** | Data cleaning, analysis and visualisation with Python |
-| **Logistic Regression / ML Practice** | Supervised learning and model evaluation |
-| **Java & Spring Boot Applications** | Java backend development, REST APIs and database integration |
-
-> Tip: Replace each project name with a link, for example: `[AI-Powered Web Scraper](https://github.com/Bhagavi17/REPOSITORY-NAME)`.
-
-## 🌱 Currently Learning
-
-- Java backend development with Spring Boot
-- Spring Security, JWT and REST API development
-- React and full-stack application development
-- SQL, database connectivity and data modelling
-- Data Structures and Algorithms
-- AI/ML integration in web applications
-
-## 📊 GitHub Overview
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhagavi17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bhagavi's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagavi17&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhagavi17&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</div>
-
-## 🎓 Certifications & Experience
-
-- **Java Developer Intern** — Alfido Tech
-- **AI & ML Intern** — Elevate Labs
-- Completed learning programmes in Java, Python, Data Science, Machine Learning and Frontend Development.
-- Completed virtual experience programmes through Forage, including Goldman Sachs, Deloitte and AWS.
 
 ---
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+### ✨ Learn. Build. Improve. Repeat.
 
-**Always learning. Always building.**
+*Turning ideas into practical software solutions.*
 
 </div>
 
